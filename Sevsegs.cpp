@@ -30,7 +30,7 @@ void Sevsegs::clean()
 void Sevsegs::print(int n)
 {
   clean();
-  for (int i = 0; i < 8; i++)
+  for (int i = 0; i < 7; i++)
   {
     digitalWrite(_pins[i], _nums[n][i]);
   }
