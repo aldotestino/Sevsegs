@@ -1,0 +1,21 @@
+###########################################
+# Syntax Coloring Map For Sevsegs library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Sevsegs	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+clean KEYWORD2
+print KEYWORD2
+countUp KEYWORD2
+countDown KEYWORD2
+
+
+
